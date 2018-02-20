@@ -1,0 +1,6 @@
+E:\C# .Net\SystemFileReader\SystemFileReader\bin\Debug\SystemFileReader.dll
+E:\C# .Net\SystemFileReader\SystemFileReader\bin\Debug\SystemFileReader.pdb
+E:\C# .Net\SystemFileReader\SystemFileReader\obj\Debug\SystemFileReader.csprojResolveAssemblyReference.cache
+E:\C# .Net\SystemFileReader\SystemFileReader\obj\Debug\SystemFileReader.csproj.CoreCompileInputs.cache
+E:\C# .Net\SystemFileReader\SystemFileReader\obj\Debug\SystemFileReader.dll
+E:\C# .Net\SystemFileReader\SystemFileReader\obj\Debug\SystemFileReader.pdb
